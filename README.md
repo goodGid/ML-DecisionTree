@@ -14,6 +14,7 @@
 
 이번 Project는 `결정 트리(Decision Tree)`를 기반으로 운동 경기의 결과를 예측하는 예제를 살펴본다.
 
+---
 
 ## 머신러닝 - 결정 트리(Decision Tree)를 기반으로 운동 경기 결과 예측하기
 
@@ -24,7 +25,7 @@
 5. [NBA 경기 데이터 수집 및 전처리](https://goodgid.github.io/Python3(9)-(3)/)
 6. [결정 트리를 이용한 NBA 경기 결과 예측](https://goodgid.github.io/Python3(9)-(3)/)
 
-
+---
 
 ## 출처
 
