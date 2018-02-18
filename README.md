@@ -13,3 +13,16 @@
 다양한 머신 러닝 알고리즘과 프로그램들이 오픈 소스 기반으로 개발되고 있다.
 
 이번 Project는 `결정 트리(Decision Tree)`를 기반으로 운동 경기의 결과를 예측하는 예제를 살펴본다.
+
+
+## 머신러닝 - 결정 트리(Decision Tree)를 기반으로 운동 경기 결과 예측하기
+
+1. [지도 학습이란 ?](https://goodgid.github.io/Python3(9)-(1)/)
+2. [개발 환경 설정 : skikit-learn과 pandas](https://goodgid.github.io/Python3(9)-(1)/)
+3. [분류 문제와 결정 트리](https://goodgid.github.io/Python3(9)-(2)/)
+4. [교차 검증](https://goodgid.github.io/Python3(9)-(2)/)
+5. [NBA 경기 데이터 수집 및 전처리](https://goodgid.github.io/Python3(9)-(3)/)
+6. [결정 트리를 이용한 NBA 경기 결과 예측](https://goodgid.github.io/Python3(9)-(3)/)
+
+
+
